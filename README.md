@@ -1,6 +1,6 @@
 
 # Miniblox Scripts
-A collections of scripts for miniblox created by PixelatedComands\n
+A collections of scripts for miniblox created by PixelatedComands.
 I was bored & randomly found Miniblox so I whipped up a quick script. Perhaps I'll make another one?
 
 ## Chat Manager
