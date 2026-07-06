@@ -1,7 +1,7 @@
 
 # Miniblox Scripts
 A collections of scripts for miniblox created by PixelatedComands
-
+I was bored & randomly found Miniblox so I whipped up a quick script. Perhaps I'll make another one?
 
 ## Chat Manager
 
@@ -25,7 +25,7 @@ All features (except /clearchat) included in a simplistic and easy-to-use GUI.
 
 ```javascript
 
-  Coming Soon..
+  If I get bored again..
 
 ```
 
