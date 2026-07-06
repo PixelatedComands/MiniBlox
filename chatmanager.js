@@ -257,6 +257,19 @@ game.commands.register("viewitem", {}, (sender, args) => {
     
 });
 
+game.commands.register("clearchat", { permission: "admin" }, (sender, args) => {
+
+  for (let i = 1; i < 101; i++) {
+    game.broadcast(" ");
+    
+  }
+
+  game.setTimeout(() => {
+    game.broadcast("\\yellow\\Chat was cleared.")
+  }, 60)
+
+    
+});
 
 game.on("playerChat", (e) => {
   e.cancel();
